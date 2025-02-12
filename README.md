@@ -52,6 +52,11 @@ Each phase uses structured prompt templates to guide AI responses. The dataset c
 - Inputs: Customer profile, brand voice guidelines, cultural references, product details.
 - Output: Crafts a **personalized, brand-aligned narrative** integrating cultural sophistication, tactile luxury, and timeless storytelling.
 
+![AI Experiment Storytelling](assets/ai-experiment-storytelling-7.jpg)
+
+
+![AI Experiment Storytelling](assets/ai-experiment-storytelling-8.jpg)
+
 ## Key Features
 
 - **Luxury-Specific AI Personalization**: Generates tailored storytelling aligned with luxury consumer preferences.
